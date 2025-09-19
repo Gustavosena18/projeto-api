@@ -11,4 +11,9 @@
 
 **Nenrito**
 
-[Texto do link]https://www.youtube.com/watch?v=_hZf1teRFNg
+[Texto do link](https://www.youtube.com/watch?v=_hZf1teRFNg)
+
+```python
+def teste():
+    print("teste")
+```
